@@ -1,1 +1,3 @@
-# mix-or-match-javascript
+# mix-or-match-javascript card game
+
+
